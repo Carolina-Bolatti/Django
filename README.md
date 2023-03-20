@@ -1,2 +1,2 @@
 # Django
-Ejercicios practicos semanales de Clases resueltos
+Ejercicios practicos semanales de Clases resueltos de M. Carolina Bolatti C.
